@@ -1,0 +1,55 @@
+[
+  {
+    "id": "real_001",
+    "source": "Reddit",
+    "subreddit": "r/runefactory",
+    "game": "Rune Factory: Guardians of Azuma",
+    "timestamp": "2025-06-28T00:00:00Z",
+    "author": "RoseSilverpen",
+    "game_genre": "Farming Sim / Action RPG",
+    "raw_text": "Mistranslation not caught by localization team: in the original release, a character's dialogue said the player had been in Spring Village for 'half a year'; after a patch, the same line (now unvoiced) says 'half a month' instead. Commenters confirmed the Japanese original always said 'half a month' (\u534a\u6708), and the English 'half a year' (easily confused with \u534a\u5e74) was the mistranslation that got silently patched.",
+    "url": "https://www.reddit.com/r/runefactory/comments/1ln0rcb/change_in_the_plot/"
+  },
+  {
+    "id": "real_002",
+    "source": "Steam Discussion",
+    "game": "Disgaea 7: Vows of the Virtueless",
+    "timestamp": "2023-09-27T13:35:00Z",
+    "author": "Prinny",
+    "game_genre": "Tactical RPG",
+    "raw_text": "Specific localization issue found: a large number of evility (skill) descriptions in the English UI show the wrong stat or wrong value than what the skill actually affects \u2014 for example, a description says 'Hit' when the effect is actually 'Res,' or 'Spd' when it's actually 'Hit,' and some percentage values are wrong outright (e.g., showing 0% instead of 25%, or 100% instead of 10%). Wrong item names and icons also appear in quest menus and tables.",
+    "url": "https://steamcommunity.com/app/2250600/discussions/0/3880470762777120509"
+  },
+  {
+    "id": "real_003",
+    "source": "Steam Discussion",
+    "game": "Where Winds Meet",
+    "timestamp": "2025-11-19T15:37:00Z",
+    "author": "marksman",
+    "game_genre": "Open-World Action RPG",
+    "raw_text": "Localization translation error: in China, the game directly lets players select 'male' and 'female,' but the English/Western localization instead labels the same choice 'Body 1' and 'Body 2.' Please change it back. (Note: a later commenter, Ryvaku, disputes this is a translation error at all, arguing it was an intentional choice by the Western localization team rather than a mistranslation \u2014 making this a disputed/subjective case rather than a confirmed objective error.)",
+    "url": "https://steamcommunity.com/app/3564740/discussions/0/685238092472317629/"
+  },
+  {
+    "id": "real_004",
+    "source": "Blog",
+    "game": "Collar\u00d7Malice",
+    "timestamp": "2017-09-30T00:00:00Z",
+    "author": "nabepura",
+    "game_genre": "Visual Novel / Otome",
+    "raw_text": "Detailed QA/QC audit of the English localization: 1,185 total QA/QC failures and 164 mistranslations counted across routes, including wrong character names (Tsukushima mistranslated as Tsukishima, Kouji as Yukihisa), a word-level mistranslation ('bureeki' rendered as 'break' instead of 'brake'), inconsistent nicknames for the same character, wrong pronouns, and a factual date error in Yanagi's route ('arrested for the incident on the 11th' became 'arrested for the November incident').",
+    "url": "https://nabepura.wordpress.com/2017/09/30/collar-x-malices-lack-of-qaqc/"
+  },
+  {
+    "id": "real_005",
+    "source": "Reddit",
+    "subreddit": "r/nier",
+    "game": "Drakengard 3 (character: Zero)",
+    "timestamp": null,
+    "author": "devonteem (original poster); Dj-Carplid, Pilgrim_Scholar, RekkaAlexiel (replies)",
+    "game_genre": "Action RPG",
+    "raw_text": "Subjective tone/personality complaint, not a factual error: the original poster (devonteem) asks how different the character Zero's personality is between the Japanese and English versions of Drakengard 3, describing Japanese Zero as 'less brash and more mature' but noting the English and Japanese scenes often look similarly angry to them. Dj-Carplid replies: 'She sounds more depressed and burnt out from life in japanese... Japanese is significantly better in matching the tone of the drakengard games.' Pilgrim_Scholar gives a longer contrast: in English she is 'much more vulgar and ready to snap from rage, an angry psychopath with a mouth that would make a sailor blush,' while Japanese Zero expresses the same frustration through politeness-level pronoun choice and clipped responses, reading as 'a world-weary nihilist' rather than someone constantly screaming profanity. RekkaAlexiel adds: 'Zero JP & Zero EN are like two very different characters to me... Whether one believes that's a good or bad thing is up to you to decide.' No one in the thread claims either version is factually incorrect \u2014 it's entirely a debate over interpretation, tone, and character voice, which is exactly the kind of item LocalPulse's objective/subjective split is meant to route to the lower-priority queue instead of excluding or treating as an error.",
+    "url": "https://www.reddit.com/r/nier/comments/1dz9j53/how_different_is_zeros_personality_in_english_and",
+    "note": "Posted '2y ago' relative to capture date; exact post date not shown on the page."
+  }
+]
